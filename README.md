@@ -23,10 +23,10 @@ This DNN implementation is for benchmarking against XGBoost on imbalanced binary
 Early stopping triggered after 28 epochs (best val PR-AUC: 0.3663).
 Test set (final):
 
-PR-AUC: 0.2358
-Precision: 0.1098
-Recall: 0.7200
-F1: 0.1905
+-PR-AUC: 0.2358
+-Precision: 0.1098
+-Recall: 0.7200
+-F1: 0.1905
 
 ---
 
