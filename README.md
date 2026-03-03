@@ -30,4 +30,4 @@ Test set (final):
 
 ---
 
-Made with ❤️ for learning purposes.
+Made for learning purposes.
